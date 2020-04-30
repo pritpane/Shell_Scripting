@@ -2,7 +2,7 @@
 #Author:Pritam Nipane
 #Created date:11-April-2020
 #Description:This script will take input from user and print output.
-#Modified date:11-April-2020
+#Modified date:30-April-2020
 clear
 echo
 a=`hostname`
